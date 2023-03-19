@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MAD-Meditation-webui/static/css/main.ce2ec6ca.css",
+    "main.js": "/MAD-Meditation-webui/static/js/main.e170ddcb.js",
+    "static/media/welcome-bg.jpg": "/MAD-Meditation-webui/static/media/welcome-bg.7953169f03f60e4f5937.jpg",
+    "static/media/Rolling-1s-200px.gif": "/MAD-Meditation-webui/static/media/Rolling-1s-200px.2dd68077cf3608ea54e4.gif",
+    "static/media/leafs.png": "/MAD-Meditation-webui/static/media/leafs.1a7627ddf7efe8d1dd10.png",
+    "static/media/sprites.svg": "/MAD-Meditation-webui/static/media/sprites.8390065771823d5d971c69006ac8cbc6.svg",
+    "index.html": "/MAD-Meditation-webui/index.html",
+    "main.ce2ec6ca.css.map": "/MAD-Meditation-webui/static/css/main.ce2ec6ca.css.map",
+    "main.e170ddcb.js.map": "/MAD-Meditation-webui/static/js/main.e170ddcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce2ec6ca.css",
+    "static/js/main.e170ddcb.js"
+  ]
+}
